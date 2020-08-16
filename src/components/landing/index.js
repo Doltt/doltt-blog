@@ -1,0 +1,5 @@
+export * from './Intro'
+export * from './Content'
+export * from './Recently'
+export * from './PostsList'
+export * from './Contact'
