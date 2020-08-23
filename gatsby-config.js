@@ -7,7 +7,7 @@
 module.exports = {
 	/* Your site config here */
 	siteMetadata: {
-		title: `我是胡杨树`,
+		title: `doltt.com`,
 		author: `胡杨树`,
 		description: `胡杨树的个人博客/站点`,
 		keywords: `gatsby, 胡杨树, 博客, 金融, 互联网`
